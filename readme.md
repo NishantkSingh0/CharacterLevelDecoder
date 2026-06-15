@@ -143,7 +143,7 @@ Nishanters up was religional how and she took it moving her for the two younger 
 [▶️ Watch Demo](./Training.mp4)
 
 # Infererence
-[▶️ Watch Demo](./inferencing.mp4)
+[▶️ Watch Demo](./Inferencing.mp4)
 
 
 # Training
