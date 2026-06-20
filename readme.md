@@ -10,6 +10,8 @@ No pretrained models, Hugging Face architectures, or external Transformer implem
 
 # Model Architecture
 
+![Model Architecture](ModelArch.png)
+
 | Component              | Value                       |
 | ---------------------- | --------------------------- |
 | Architecture           | Decoder-Only Transformer    |
